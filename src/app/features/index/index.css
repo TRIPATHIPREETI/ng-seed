@@ -1,0 +1,45 @@
+header{
+  text-align: left;
+  font-weight: bold;
+  font-family: "Times New Roman";
+  font-size:50px;
+  color: red;
+}
+body{
+  background-image: url("bgimg.jpg");
+}
+#Signin{
+  color: white;
+  background-color:red;
+  margin-top: 15px;
+  margin-right: 10px;
+  padding: 7px 17px;
+  font-size: 16px;
+  font-family: Arial;
+}
+#Signin:hover{
+  background-color: darkred;
+}
+footer{
+  background-color: transparent;
+  color:gray;
+  text-align: center;
+  margin-top: 25%;
+}
+.info{
+  margin-top: 10%;
+  color:white;
+  font-family: Arial;
+  margin-left: 5px;
+}
+#joinbutton{
+  padding: 10px;
+  background-color: red;
+  color: white;
+  margin-left: 3px;
+  text-decoration: none;
+}
+
+#joinbutton:hover{
+  background-color: darkred;
+}
